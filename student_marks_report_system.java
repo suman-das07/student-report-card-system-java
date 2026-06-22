@@ -166,7 +166,7 @@ public class student_marks_report_system {
         System.out.print(" \nEnglish             " + englishMarks);
         System.out.print(" \nJava                " + javaMarks);
         System.out.print(" \nDSA                 " + dsaMarks);
-        System.out.print(" \nWeb Development     " + englishMarks);
+        System.out.print(" \nWeb Development     " + webDevMarks);
         System.out.print(" \nProblem Solving     " + problemSolvingMarks);
         System.out.print(" \nOperating Systems   " + operatingSysMarks);
 
